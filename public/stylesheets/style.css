@@ -1,0 +1,11 @@
+@import 'materialize.min.css';
+body {
+  font-family: Arial;
+}
+.homebutton {
+  float: right;
+}
+img {
+  float: left;
+  size: 50%;
+}
